@@ -42,9 +42,7 @@ For xampp users,location :
 ```C:\xampp\apache\conf\extra\httpd-vhosts.conf ```
 
 ##### i . Remove the hash mark from the beginning of the line
-From 
-```#NameVirtualHost *.80```
-to
+
 ```NameVirtualHost *.80	```
 
 ##### ii . Add virtual host block in that file (at the end)
