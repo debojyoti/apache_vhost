@@ -28,7 +28,7 @@
 #### Comment out the Include... line after Virtual hosts
 
 ```
-Virtual hosts
+#Virtual hosts
 Include conf/extra/httpd-vhosts.conf
 ```
 
